@@ -8,3 +8,5 @@ The game is still on construction, where the only blocks available are:
 Grass block
 Wood
 Stone
+
+The controls are simple, you use W or up arrow key to jump, the directional right and left keys or A and D to move left and right, E to toggle the inventory, right click to place blocks, and left click to delete blocks.
