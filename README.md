@@ -1,6 +1,6 @@
 # htmlcraft
 
-HTMLCraft is a project only made with ChatGPT and Claude, based on popular game Minecraft.
+HTMLCraft is a project only made with ChatGPT, Claude and Gemini, based on popular game Minecraft.
 
 HTMLCraft is a 2D browser game only made with JavaScript, CSS and HTML, where you can use multiple blocks to make structures in-game
 
